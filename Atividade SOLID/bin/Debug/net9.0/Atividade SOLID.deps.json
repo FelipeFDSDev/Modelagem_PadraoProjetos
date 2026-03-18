@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Atividade SOLID/1.0.0": {
+        "runtime": {
+          "Atividade SOLID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atividade SOLID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,28 @@
+C:\Users\0031432512014\Downloads\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.exe
+C:\Users\0031432512014\Downloads\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.deps.json
+C:\Users\0031432512014\Downloads\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.runtimeconfig.json
+C:\Users\0031432512014\Downloads\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.dll
+C:\Users\0031432512014\Downloads\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.pdb
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.AssemblyInfoInputs.cache
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.AssemblyInfo.cs
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.csproj.CoreCompileInputs.cache
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.dll
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\refint\Atividade SOLID.dll
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.pdb
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.genruntimeconfig.cache
+C:\Users\0031432512014\Downloads\Atividade SOLID\obj\Debug\net9.0\ref\Atividade SOLID.dll
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.exe
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.deps.json
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.runtimeconfig.json
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.dll
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\bin\Debug\net9.0\Atividade SOLID.pdb
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.AssemblyInfoInputs.cache
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.AssemblyInfo.cs
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.csproj.CoreCompileInputs.cache
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.dll
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\refint\Atividade SOLID.dll
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.pdb
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\Atividade SOLID.genruntimeconfig.cache
+C:\FATEC\Segundo Ano\Modelagem e Padrões de Projetos\Atividade SOLID\obj\Debug\net9.0\ref\Atividade SOLID.dll
